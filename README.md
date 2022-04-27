@@ -7,27 +7,23 @@
 
 ## Overview 
 
-This repository contains replication data for [Beerli, Indergand and Kunz (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3674880). 
+This repository contains replication files and data for [Beerli, Indergand and Kunz (2022)](https://doi.org/10.1007/s00148-022-00892-3) more detail on the construction can be found in the longer version that contains the appendix [Beerli, Indergand and Kunz (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3674880). 
 
-First, we present the crosswalks. 
+The analysis is based on several restricted datasets, such as the Swiss census, we can not make these available but are happy to direct interested readers and support any replication, please do not hesitate to contact either [Andreas Beerli](mailto:beerli@kof.ethz.ch) or [Johannes Kunz](mailto:johannes.kunz@monash.edu) about any of these. Likewise for brevity we exclude the multitude of replication files for the Appendix version but are happy to provide these upon request. 
 
-Second, the various source data sets we use. 
+First, based on collapsed data sets from the microdata in the census we provide three data sets (in the mainfiles folder) used in the main paper along with do-files on their extraction (in the replicationcodes/_data folder). 
 
-Finally, the estimation do-files generate our main results. 
+Second, we present all do-files used to generate the exhibits in the main paper (in the replicationcodes/_estimation folder). Simple adjustments of paths should suffice to replicate any of our main results, again please do not hesitate to contact us. 
 
-For any questions on these please contact [Johannes Kunz](mailto:johannes.kunz@monash.edu)
+Third, perhaps most useful for future research is the construction of the routine share in Swiss commuting zones, which we detail below. 
 
 ## Swiss routine share data
 
-... 
+As detailed in the main paper and in more detail in the appendix we construct the Swiss local level decadal routine share following Autor & Dorn (2013)[https://www.ddorn.net/papers/Autor-Dorn-LowSkillServices-Polarization.pdf] and its corresponding instrumental variable and saved the data separately for future research (swissroutineshare/). 
 
 ## Source files  
 
 We do not re-post the publicly available datasets from the various sources here since they belong to different entities, however, we present all sources and do-files extracting and preparing the data. If interested in the exact datasets (in case there are updates or they are not available anymore, please contact us directly). 
-
-
-
-## Estimation files  
 
 
 ## Update History
@@ -45,8 +41,6 @@ We do not re-post the publicly available datasets from the various sources here 
 
 [Johannes Kunz](https://sites.google.com/site/johannesskunz/)
 <br>Monash University 
-
-
 
 ## References: 
 
