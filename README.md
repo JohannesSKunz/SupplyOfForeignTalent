@@ -19,7 +19,7 @@ Third, perhaps most useful for future research is the construction of the routin
 
 ## Swiss routine share data
 
-As detailed in the main paper and in more detail in the appendix we construct the Swiss local level decadal routine share following Autor & Dorn (2013)[https://www.ddorn.net/papers/Autor-Dorn-LowSkillServices-Polarization.pdf] and its corresponding instrumental variable and saved the data separately for future research (swissroutineshare/). 
+As detailed in the main paper and in more detail in the appendix we construct the Swiss local level decadal routine share following [Autor & Dorn (2013)](https://www.ddorn.net/papers/Autor-Dorn-LowSkillServices-Polarization.pdf) and its corresponding instrumental variable and saved the data separately for future research (swissroutineshare/). 
 
 ## Source files  
 
