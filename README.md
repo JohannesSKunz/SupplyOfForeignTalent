@@ -44,6 +44,8 @@ We do not re-post the publicly available datasets from the various sources here 
 
 ## References: 
 
+David, H. Autor, & Dorn, D. (2013). The growth of low-skill service jobs and the polarization of the US labor market. American Economic Review, 103(5), 1553-97.
+
 Beerli, Andreas E., Indergand, Ronald & Kunz, Johannes .S. [The supply of foreign talent: how skill-biased technology drives the location choice and skills of new immigrants](https://doi.org/10.1007/s00148-022-00892-3). Journal of Population Economics (2022). https://doi.org/10.1007/s00148-022-00892-3
 
 
