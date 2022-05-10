@@ -13,7 +13,7 @@ The analysis is based on several restricted datasets, such as the Swiss census, 
 
 First, based on collapsed data sets from the microdata in the census we provide three data sets (in the mainfiles folder) used in the main paper along with do-files on their extraction (in the replicationcodes/_data folder). 
 
-Second, we present all do-files used to generate the exhibits in the main paper (in the replicationcodes/_estimation folder). Simple adjustments of paths should suffice to replicate any of our main results, again please do not hesitate to contact us. 
+Second, we present all do-files used to generate the exhibits in the main paper (in the replicationcodes/_estimation folder). Simple adjustments of paths should suffice to replicate any of our main results, again please do not hesitate to contact us. Only figure 1 (polarisation) can not be replicated with the data posted here as it is based on the Swiss Labor Force Survey (SAKE). The SAKE is easy to get upon which the figure can be replicated, again please contact us if you need any assistance with this. 
 
 Third, perhaps most useful for future research is the construction of the routine share in Swiss commuting zones, which we detail below. 
 
